@@ -1,0 +1,26 @@
+{
+  "name": "presentation",
+  "version": "0.0.0",
+  "description": "Presentation by Mr Fab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazreil/presentation.git"
+  },
+  "keywords": [
+    "presentation",
+    "cleaver"
+  ],
+  "author": "Fazreil Amreen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazreil/presentation/issues"
+  },
+  "homepage": "https://github.com/fazreil/presentation#readme",
+  "dependencies": {
+    "cleaver": "^0.8.7"
+  }
+}
