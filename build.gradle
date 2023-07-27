@@ -24,7 +24,7 @@
  }
 
  task convert(type: NpmTask, dependsOn: 'npmInstall') {
-     description 'parse README.md into presentation.html.'
+     description 'parse README.md into index.html.'
      args = ['run','convert']
  }
 
