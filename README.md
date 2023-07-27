@@ -13,13 +13,25 @@ controls: true
 
 --
 
-# Never ask who is DevOps
+# who/what is DevOps?
 
 --
 
-- because DevOps is a culture, a practise.
+- DevOps is a culture, a practise.
+- But like Agile Coaches, you have DevOps engineers to cultivate the culture.
 
 --
+
+# DevOps do what actually?
+
+--
+
+- Connect between Development and Operations
+- Build pipeline
+- Enhance build by probing it
+- Shift left operations into development stage
+
+---
 
 # Pipeline Design
 
@@ -38,7 +50,7 @@ controls: true
 
 I usually use this table to decide what to put in the pipeline
 
---
+---
 
 # The cult of DevOps
 
@@ -48,10 +60,10 @@ I usually use this table to decide what to put in the pipeline
 - how many DevOps should a team has?
 - is the DevOps guy also the infra guy?
 
---
+---
 
 # Q&A
 
---
+---
 
 # Thank you
