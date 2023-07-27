@@ -4,3 +4,31 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our samples at https://docs.gradle.org/6.7.1/samples
  */
+ buildscript {
+     repositories {
+         maven {
+             url "https://plugins.gradle.org/m2/"
+         }
+     }
+     dependencies {
+         classpath "com.github.node-gradle:gradle-node-plugin:3.5.0"
+     }
+ }
+
+
+ apply plugin: 'com.github.node-gradle.node'
+
+
+ node {
+     download = true
+ }
+
+ task convert(type: NpmTask, dependsOn: 'npmInstall') {
+     description 'parse README.md into presentation.html.'
+     args = ['run','convert']
+ }
+
+ task watch(type: NpmTask, dependsOn: 'npmInstall') {
+    description 'watch changes on md.'
+    args = ['run','watch']
+ }
