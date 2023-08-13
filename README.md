@@ -54,7 +54,9 @@ I usually use this table to decide what to put in the pipeline
 
 ### Tools
 
-<video src="videos/tools.avi"/>
+<video control >
+  <source src="videos/tools.avi"/>
+</video>
 
 --
 
