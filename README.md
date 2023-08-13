@@ -55,8 +55,17 @@ I usually use this table to decide what to put in the pipeline
 ### Tools
 
 <video control >
-  <source src="videos/tools.avi"/>
+  <source src ="videos/tools.avi"/>
 </video>
+
+--
+
+### The DevOps utopia
+
+- the tools
+  - put the devops flow here
+- the process
+- the people
 
 --
 
@@ -67,6 +76,24 @@ I usually use this table to decide what to put in the pipeline
 - what makes a good DevOps guy?
 - how many DevOps should a team has?
 - is the DevOps guy also the infra guy?
+
+--
+
+### devops guy
+put devops burger here
+
+--
+
+### devops guy
+- make fun of the devs
+- also make fun of the ops (infra)
+- devops can do both
+- one day they may also have management skills
+- 
+
+--
+
+### 
 
 ---
 
