@@ -50,7 +50,13 @@ controls: true
 
 I usually use this table to decide what to put in the pipeline
 
----
+--
+
+### Tools
+
+<video src="videos/tools.avi"/>
+
+--
 
 # The cult of DevOps
 
