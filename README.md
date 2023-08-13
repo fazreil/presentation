@@ -63,9 +63,26 @@ I usually use this table to decide what to put in the pipeline
 ### The DevOps utopia
 
 - the tools
-  - put the devops flow here
 - the process
 - the people
+
+--
+
+#### The DevOps Utopia: The tools
+
+ put the devops process flaw here
+
+--
+
+#### The DevOps Utopia: The process
+
+put pr process here
+
+--
+
+#### The DevOps Utopia: The people
+
+put safe 6.0 here
 
 --
 
