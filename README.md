@@ -90,27 +90,27 @@ put safe 6.0 here
 
 --
 
-- what makes a good DevOps guy?
+- what makes a good DevOps Engineer?
 - how many DevOps should a team has?
-- is the DevOps guy also the infra guy?
+- is the DevOps guy also the infra engineer?
 
 --
 
-### devops guy
+### DevOps Engineer
 put devops burger here
 
 --
 
-### devops guy
+### DevOps Engineer
 - make fun of the devs
 - also make fun of the ops (infra)
 - devops can do both
 - one day they may also have management skills
-- 
+-
 
 --
 
-### 
+###
 
 ---
 
