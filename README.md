@@ -54,35 +54,47 @@ I usually use this table to decide what to put in the pipeline
 
 ### Tools
 
-<video control >
-  <source src ="videos/tools.avi"/>
+<video control width="100%" height="100%" autoplay>
+  <source src ="videos/tools.webm"/>
 </video>
+
+--
+
+### Agile X DevOps
+
+ref: [A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Framework](https://www.researchgate.net/publication/225141527_A_Disciplined_Approach_to_Adopting_Agile_Practices_The_Agile_Adoption_Framework)
+
+<img src="images/sidky-2007.png" width=100% height=100%/>
 
 --
 
 ### The DevOps utopia
 
-- the tools
-- the process
-- the people
+<video control width="100%" height="100%" autoplay>
+  <source src ="videos/ppt.webm"/>
+</video>
 
 --
 
 #### The DevOps Utopia: The tools
 
- put the devops process flaw here
+<img src="images/brij-pandey-cicd-flow.gif" width=100% height=100%/>
 
 --
 
 #### The DevOps Utopia: The process
 
-put pr process here
+<video control width="100%" height="100%" autoplay>
+  <source src ="videos/vid_git-workflow.webm"/>
+</video>
 
 --
 
 #### The DevOps Utopia: The people
 
-put safe 6.0 here
+<img src="images/safe6.png" width=100% height=100%/>
+
+ref: [SAFe 6.0](https://scaledagileframework.com)
 
 --
 
@@ -97,7 +109,10 @@ put safe 6.0 here
 --
 
 ### devops guy
-put devops burger here
+
+<img src="images/devopsburger.jpg" width=100% height=100%/>
+
+ref: [Dr. Milan Milanović (@milan_milanovic)](https://twitter.com/milan_milanovic/status/1684444624830464000?ref_src=twsrc%5Etfw)
 
 --
 
@@ -106,11 +121,6 @@ put devops burger here
 - also make fun of the ops (infra)
 - devops can do both
 - one day they may also have management skills
-- 
-
---
-
-### 
 
 ---
 
