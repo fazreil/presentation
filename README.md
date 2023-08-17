@@ -5,6 +5,7 @@ author:
   url: https://www.linkedin.com/in/ts-fazreil-amreen-abdul-jalil-a0259321
 output: index.html
 controls: true
+theme: sudodoki/reveal-cleaver-theme
 
 --
 
@@ -14,6 +15,10 @@ controls: true
 --
 
 # who/what is DevOps?
+
+--
+
+<img src="images/octopus-devops-infinity-clear.png" width=100% height=100%/>
 
 --
 
@@ -106,11 +111,11 @@ put devops burger here
 - also make fun of the ops (infra)
 - devops can do both
 - one day they may also have management skills
-- 
+-
 
 --
 
-### 
+###
 
 ---
 
