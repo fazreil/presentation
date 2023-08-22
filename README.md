@@ -5,6 +5,7 @@ author:
   url: https://www.linkedin.com/in/ts-fazreil-amreen-abdul-jalil-a0259321
 output: index.html
 controls: true
+theme: sudodoki/reveal-cleaver-theme
 
 --
 
@@ -14,6 +15,10 @@ controls: true
 --
 
 # who/what is DevOps?
+
+--
+
+<img src="images/octopus-devops-infinity-clear.png" width=100% height=100%/>
 
 --
 
@@ -102,13 +107,13 @@ ref: [SAFe 6.0](https://scaledagileframework.com)
 
 --
 
-- what makes a good DevOps guy?
+- what makes a good DevOps Engineer?
 - how many DevOps should a team has?
-- is the DevOps guy also the infra guy?
+- is the DevOps guy also the infra engineer?
 
 --
 
-### devops guy
+### DevOps Engineer
 
 <img src="images/devopsburger.jpg" width=100% height=100%/>
 
@@ -116,7 +121,7 @@ ref: [Dr. Milan Milanović (@milan_milanovic)](https://twitter.com/milan_milanov
 
 --
 
-### devops guy
+### DevOps Engineer
 - make fun of the devs
 - also make fun of the ops (infra)
 - devops can do both
