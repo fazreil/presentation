@@ -51,7 +51,7 @@ theme: sudodoki/reveal-cleaver-theme
 
 ### The DevOps Periodic Table
 
-<img src="images/devops-periodic-table-v4.png" width=100% height=100%/>
+<img src="images/devops-periodic-table-v4.png" width=80% height=80%/>
 
 I usually use this table to decide what to put in the pipeline
 
@@ -59,7 +59,7 @@ I usually use this table to decide what to put in the pipeline
 
 ### Tools
 
-<video control width="100%" height="100%" autoplay>
+<video control width="100%" height="100%" autoplay=true loop=true>
   <source src ="videos/tools.webm"/>
 </video>
 
@@ -69,13 +69,13 @@ I usually use this table to decide what to put in the pipeline
 
 ref: [A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Framework](https://www.researchgate.net/publication/225141527_A_Disciplined_Approach_to_Adopting_Agile_Practices_The_Agile_Adoption_Framework)
 
-<img src="images/sidky-2007.png" width=100% height=100%/>
+<img src="images/sidky-2007.png" width=60% height=60%/>
 
 --
 
 ### The DevOps utopia
 
-<video control width="100%" height="100%" autoplay>
+<video control width="100%" height="100%" autoplay=true loop=true>
   <source src ="videos/ppt.webm"/>
 </video>
 
@@ -83,13 +83,13 @@ ref: [A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Fra
 
 #### The DevOps Utopia: The tools
 
-<img src="images/brij-pandey-cicd-flow.gif" width=100% height=100%/>
+<img src="images/brij-pandey-cicd-flow.gif" width=70% height=70%/>
 
 --
 
 #### The DevOps Utopia: The process
 
-<video control width="100%" height="100%" autoplay>
+<video control width="100%" height="100%" autoplay=true loop=true>
   <source src ="videos/vid_git-workflow.webm"/>
 </video>
 
@@ -115,7 +115,7 @@ ref: [SAFe 6.0](https://scaledagileframework.com)
 
 ### DevOps Engineer
 
-<img src="images/devopsburger.jpg" width=100% height=100%/>
+<img src="images/devopsburger.jpg" width=50% height=50%/>
 
 ref: [Dr. Milan Milanović (@milan_milanovic)](https://twitter.com/milan_milanovic/status/1684444624830464000?ref_src=twsrc%5Etfw)
 
