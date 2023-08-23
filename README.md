@@ -14,6 +14,19 @@ theme: sudodoki/reveal-cleaver-theme
 
 --
 
+### A little info about myself
+
+- Name: Ts. Fazreil Amreen bin Abdul Jalil
+- Nickname: Fab
+- Casual Gamer, Build Engineer, Party Starter, Clever Joker, Competent Driver, Author, Certified Trainer, Configuration Manager, DevOps, Husband
+- Current job: VP observing the implementation of DevOps at MIDF
+
+--
+
+<img src="images/uselinuxpresentwithfirefox.jpg" width=50% height=50%/>
+
+--
+
 # who/what is DevOps?
 
 --
