@@ -87,6 +87,16 @@ ref: [A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Fra
 
 --
 
+#### The DevOps Utopia: The tools: roadmap
+
+- Setting up CICD does not have to be complex
+- Go along the maturity of the team
+- We are incepting the DevOps culture, try not to cause culture shock
+- Start small: like how Ekipa and I do. We just use github and netlify
+- Go enterprise: use tools seen in the periodic table.
+
+--
+
 #### The DevOps Utopia: The process
 
 <video control width="100%" height="100%" autoplay=true loop=true>
