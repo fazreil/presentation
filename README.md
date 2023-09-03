@@ -144,3 +144,150 @@ ref: [Dr. Milan Milanović (@milan_milanovic)](https://twitter.com/milan_milanov
 ---
 
 # Thank you
+
+---
+
+# Appendix
+
+---
+
+## If you hit this page, you already gone too far
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/00.jpeg" width=80% height=80%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      This is how my screen look like while writing this presentation.
+    </td>
+  </tr>
+</table>
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/01.jpeg" width=80% height=80%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      I received a request to change my presentation. So I quickly branch out and fix it in a branch.
+    </td>
+  </tr>
+</table>
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/02.jpeg" width=50% height=50%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      Then I ask to review my changes.
+    </td>
+  </tr>
+</table>
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/03.jpeg" width=50% height=50%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      The reviewer can see where I changed.
+    </td>
+  </tr>
+</table>
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/04.jpeg" width=80% height=80%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      I get an email when Michaela commented, she seems satisfied.
+    </td>
+  </tr>
+</table>
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/05.jpeg" width=80% height=80%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      I click merge to bring my changes to the main branch.
+    </td>
+  </tr>
+</table>  
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/06.jpeg" width=50% height=50%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      It says merged!
+    </td>
+  </tr>
+</table>        
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/07.jpeg" width=80% height=80%/>
+    </td>
+  <tr/>
+  <tr>
+    <td style='text-align:center; vertical-align:middle'>
+      And it gets reflected after it gets built.
+    </td>
+  </tr>
+</table>  
+
+--
+
+### The Review Process
+
+<table>
+  <tr>
+    <td>
+      <img src="images/review-process/08.jpeg" width=50% height=50%/>
+    </td>
+    <td style='text-align:center; vertical-align:middle'>
+      Then I can resume enjoying my lunch.
+    </td>
+  </tr>
+</table>  
+
+--
