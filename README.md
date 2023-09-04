@@ -65,6 +65,58 @@ I usually use this table to decide what to put in the pipeline
 
 --
 
+# The Agile Release Train
+## Yes the previous slides were just mere introduction
+
+--
+
+### Agile Release Train
+
+The Agile Release Train (ART) is a long-lived team of Agile teams that incrementally develops, delivers, and often operates one or more solutions in a development value stream.
+
+```
+© Scaled Agile, Inc.
+Include this copyright notice with the copied content.
+```
+
+--
+
+### Agile Release Train
+
+From the definition, ART consists of Agile team that do these:
+<table>
+  <tr>
+    <td>
+      <ul> develop
+        <li> code </li>
+        <li> build </li>
+        <li> test </li>
+      </ul>
+    </td>
+    <td style='text-align:center; vertical-align:middle'> <img src="images/octopus-devops-infinity-clear.png" width=75% height=75%/> </td>
+    <td>
+      <ul> deliver
+        <li> deploy </li>
+        <li> operate </li>
+        <li> monitor </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+--
+
+### Agile Release Train
+
+- DevOps glues together the component in Agile teams.
+- This is done by automating the connections between each of the components
+
+--
+
+# When shall I implement ART?
+
+--
+
 ### Agile X DevOps
 
 ref: [A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Framework](https://www.researchgate.net/publication/225141527_A_Disciplined_Approach_to_Adopting_Agile_Practices_The_Agile_Adoption_Framework)
