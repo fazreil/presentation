@@ -9,6 +9,10 @@ theme: sudodoki/reveal-cleaver-theme
 
 --
 
+# for Nazmi
+
+--
+
 # CICD:
 ## The Agile Release ([Silver] Bullet) Train
 
@@ -171,7 +175,7 @@ ref: [SAFe 6.0](https://scaledagileframework.com)
 
 - what makes a good DevOps Engineer?
 - how many DevOps should a team has?
-- is the DevOps guy also the infra engineer?
+- is the DevOps engineer also the infra engineer?
 
 --
 
